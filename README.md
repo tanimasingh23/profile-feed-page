@@ -3,7 +3,7 @@ Website containing profile page and feed page (data from facebook)
 
 ## Getting Started
 
-Here is my Website containing data about me and recent posts made by me.
+Here is my Website containing data about me and recent posts made by me on facebook.
 
 ## Bugs and Issues
 
