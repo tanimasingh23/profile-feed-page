@@ -1,0 +1,29 @@
+body {
+  padding-top: 3.5rem;
+}
+
+div.border{
+	border-style: outset !important;
+	border-width: 2px !important;
+	padding-top: 5px !important;
+}
+
+.navcolor, .btncolor{
+	background-color: rgb(66,103,178) !important;
+}
+
+@media (max-width: 575px){
+	.jumbotron{
+		width: 100% !important;
+	}
+	h1,h3{
+		font-size: 3.5rem !important;
+	}
+	h2,h4{
+		font-size: 1.5rem !important;
+	}
+	h5,h6{
+		font-size: 1.0rem !important;
+	}
+	
+}
